@@ -40,3 +40,56 @@ h1 {
 */
 
 /* Your CSS code goes here */
+  .input{
+      background-color: white;
+      border: 2px;
+      color: grey;
+      padding:  15px 32px;
+      text-align: left;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .giveNow{
+      background-color: #1CBC2C;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .otherbtn{
+      background-color: grey;
+      border: 32px
+      color #eaeaea;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+    }
+    .questionText{
+      color:#20A1D4
+
+    }
+    .input{
+      background-color: white;
+      padding 15px 32px;
+      text-align: left;
+      font-size: 16px;
+
+    }
+    p.detail{
+      color:black;font-weight:bold:font-family:Calibri:font-size:16;
+    }
+    span.redhighlight{
+      color:red;font-weight: normal;font-family: Calibri:font-size:16;
+    }
+    .borderAroundForm{
+      border-color: black;
+      border-width: 2px
+      border-style: solid;
+    }
+
